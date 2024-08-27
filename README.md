@@ -4,23 +4,23 @@ I'm an IT enthusiast with a strong passion for all things tech. I love diving in
 
 ## About Me 🌱
 
-Currently, I'm a **DevOps Engineer** at Endava, where I work with tools like **Terraform**, **Ansible**, and **Jenkins** to build and maintain scalable environments. I'm always exploring new technologies like **NixOS** and frameworks like **Django**. Recently, I made the switch back to **QWERTY** from Dvorak to better collaborate with my team.
+Currently, I'm a **DevOps Engineer**, and I work with tools like **Terraform**, **Ansible**, and **Jenkins** to build and maintain scalable environments. I'm always exploring new technologies like **NixOS** and frameworks like **Django**. Recently, I made the switch back to **QWERTY** from Dvorak to better collaborate with my team.
 
 ## My Journey 🔭
 
-- **DevOps Engineer** @ **Endava**  
+- **DevOps Engineer**
   *Jan 2022 - Present*  
   Building and maintaining AWS environments, CI/CD pipelines, and more.
 
-- **Senior Test Analyst** @ **Orange**  
+- **Senior Test Analyst**
   *Oct 2018 - Jan 2022*  
   Led a team of 20+, shifted from waterfall to agile, and worked on some cool automation projects.
 
-- **Quality Assurance Engineer** @ **Endava**  
+- **Quality Assurance Engineer**
   *Jan 2017 - Oct 2018*  
   Focused on testing in the insurance and finance domains, preparing test data, and mentoring new team members.
 
-- **Software Engineer in Test** @ **Avantaj Prim SRL**  
+- **Software Engineer in Test**
   *Aug 2015 - Jan 2017*  
   Worked on various support projects, implemented agile processes, and got hands-on with Git, Selenium, and Linux.
 
