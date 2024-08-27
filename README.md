@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hey there! 👋 Welcome to my GitHub!
 
-<!--
-**4crt/4crt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT enthusiast with a strong passion for all things tech. I love diving into new tools and methodologies, always on the lookout for ways to optimize and improve processes.
 
-Here are some ideas to get you started:
+## About Me 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm a **DevOps Engineer** at Endava, where I work with tools like **Terraform**, **Ansible**, and **Jenkins** to build and maintain scalable environments. I'm always exploring new technologies like **NixOS** and frameworks like **Django**. Recently, I made the switch back to **QWERTY** from Dvorak to better collaborate with my team.
+
+## My Journey 🔭
+
+- **DevOps Engineer** @ **Endava**  
+  *Jan 2022 - Present*  
+  Building and maintaining AWS environments, CI/CD pipelines, and more.
+
+- **Senior Test Analyst** @ **Orange**  
+  *Oct 2018 - Jan 2022*  
+  Led a team of 20+, shifted from waterfall to agile, and worked on some cool automation projects.
+
+- **Quality Assurance Engineer** @ **Endava**  
+  *Jan 2017 - Oct 2018*  
+  Focused on testing in the insurance and finance domains, preparing test data, and mentoring new team members.
+
+- **Software Engineer in Test** @ **Avantaj Prim SRL**  
+  *Aug 2015 - Jan 2017*  
+  Worked on various support projects, implemented agile processes, and got hands-on with Git, Selenium, and Linux.
+
+## Fun Stuff ⚡
+
+Outside of work, I'm into music, playing sports, and just generally exploring new things. Always up for learning something new!
+
+Feel free to check out my projects or get in touch. Let's connect!
